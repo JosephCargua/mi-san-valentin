@@ -11,23 +11,11 @@ const Pagina3 = () => {
 
     return (
         <div className="container">
-            <div>
-                <p>  
-                ‎ 
-                </p>
-                <p>  
-                ‎ 
-                </p>
-                <p>  
-                ‎ 
-                </p>
-                <p>  
-                ‎ 
-                </p>    
-            </div>
-            <h1><span className="number">¡La pregunta del Millón se acerca! </span></h1>
+ 
+            
 
             <ul className="reasons">
+            <h1><span className="number">¡La pregunta del Millón se acerca! </span></h1>
             <span className="cursive">Luego de un ánalisis obviamente profundisisisimo ajajaja
                 me atrevo a hacerle la siguiente pregunta...........
             </span>

@@ -12,23 +12,8 @@ const Reasons = () => {
     return (
         <div className="container">
 
-            <div>
-                <p>  
-                ‎ 
-                </p>
-                <p>  
-                ‎ 
-                </p>
-                <p>  
-                ‎ 
-                </p>
-                <p>  
-                ‎ 
-                </p>
-            </div>
-            <h1><span className="number">5</span> <span className="red">Razones</span> <br/> por las que eres <br/> <span className="cursive">Mi Elección Perfecta</span></h1>
-
             <ul className="reasons">
+            <h1><span className="number">5</span> <span className="red">Razones</span> <br/> por las que eres <br/> <span className="cursive">Mi Elección Perfecta</span></h1>
                 <li><span className="num">1</span> Tienes la sonrisa más linda del universo</li>
                 <li><span className="num">2</span> Contigo, cualquier día se siente especial</li>
                 <li><span className="num">3</span> Haces que mi corazón lata más rápido cada vez que te veo</li>
