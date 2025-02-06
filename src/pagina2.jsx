@@ -12,9 +12,9 @@ const Pagina2 = () => {
     return (
         <div className="container">
 
+            <h1><span className="number">Investigación Especial</span><br/> Señales <br/> <span className="cursive">por las que debe decir que "Si" </span></h1>
 
             <ul className="reasons">
-            <h1><span className="number">Investigación Especial</span><span className="cursive">Señales por las que debe decir que "Si" </span></h1>
             <li><span className="num">❤️</span> Si está leyendo esto, es porque el destino nos unió</li>
                 <li><span className="num">❤️</span> Si sonreó al menos una vez, es una clara señal</li>
                 <li><span className="num">❤️</span> Si su corazón latió más rápido, sabes que esto es especial</li>
