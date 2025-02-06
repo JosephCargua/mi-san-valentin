@@ -22,7 +22,7 @@ const Pagina3 = () => {
             </ul>
 
             <div className="image-container">
-                <img src="../src/assets/image2.png" alt="Imagen romántica" />
+                <img src="../src/imagenes/image2.png" alt="Imagen romántica" />
             </div>
 
             <button className="next-button" onClick={handleNextClick}>Siguiente</button>
