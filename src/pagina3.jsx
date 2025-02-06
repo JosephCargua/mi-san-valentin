@@ -11,13 +11,19 @@ const Pagina3 = () => {
 
     return (
         <div className="container">
-              <div>
+            <div>
                 <p>  
                 ‎ 
                 </p>
                 <p>  
                 ‎ 
                 </p>
+                <p>  
+                ‎ 
+                </p>
+                <p>  
+                ‎ 
+                </p>    
             </div>
             <h1><span className="number">¡La pregunta del Millón se acerca! </span></h1>
 

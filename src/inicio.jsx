@@ -19,6 +19,12 @@ const Reasons = () => {
                 <p>  
                 ‎ 
                 </p>
+                <p>  
+                ‎ 
+                </p>
+                <p>  
+                ‎ 
+                </p>
             </div>
             <h1><span className="number">5</span> <span className="red">Razones</span> <br/> por las que eres <br/> <span className="cursive">Mi Elección Perfecta</span></h1>
 
