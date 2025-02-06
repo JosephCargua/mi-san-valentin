@@ -23,7 +23,7 @@ const Reasons = () => {
             </ul>
 
             <div className="image-container">
-                <img src="../../public/imagenes/imagen1.jpg" alt="Imagen romántica" />
+                <img src="/imagenes/imagen1.jpg" alt="Imagen romántica" />
             </div>
 
             <button className="next-button" onClick={handleNextClick}>Siguiente</button>
