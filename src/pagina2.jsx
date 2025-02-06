@@ -11,7 +11,14 @@ const Pagina2 = () => {
 
     return (
         <div className="container">
-            <p></p>
+              <div>
+                <p>  
+                ‎ 
+                </p>
+                <p>  
+                ‎ 
+                </p>
+            </div>
             <h1><span className="number">Investigación Especial</span><br/> Señales <br/> <span className="cursive">por las que debe decir que "Si" </span></h1>
 
             <ul className="reasons">

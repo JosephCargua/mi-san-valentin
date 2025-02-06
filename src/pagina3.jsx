@@ -11,7 +11,14 @@ const Pagina3 = () => {
 
     return (
         <div className="container">
-            <p></p>
+              <div>
+                <p>  
+                ‎ 
+                </p>
+                <p>  
+                ‎ 
+                </p>
+            </div>
             <h1><span className="number">¡La pregunta del Millón se acerca! </span></h1>
 
             <ul className="reasons">
